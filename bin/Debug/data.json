@@ -1,0 +1,84 @@
+﻿{
+  "sortPath": "C:\\Users\\gilev\\Downloads",
+  "createdPaths": [
+    {
+      "constructedName": "Видео",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Videos",
+      "constructedTag": "{video}",
+      "constructedExtensions": [
+        ".avi",
+        ".mp4",
+        ".mpv",
+        ".mkv",
+        ".flv"
+      ]
+    },
+    {
+      "constructedName": "Аудио",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Audio",
+      "constructedTag": "{audio}",
+      "constructedExtensions": [
+        ".mp3",
+        ".wav"
+      ]
+    },
+    {
+      "constructedName": "Документы",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Docs",
+      "constructedTag": "{docs}",
+      "constructedExtensions": [
+        ".docx",
+        ".xlsx",
+        ".doc",
+        ".xls",
+        ".pdf",
+        ".txt",
+        ".fb2",
+        ".epub"
+      ]
+    },
+    {
+      "constructedName": "EXEшники",
+      "constructedPath": "C:\\STORAGE\\SORTED\\ExeFiles",
+      "constructedTag": "{exe}",
+      "constructedExtensions": [
+        ".exe",
+        ".msi"
+      ]
+    },
+    {
+      "constructedName": "Торренты",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Torrents",
+      "constructedTag": "{trnt}",
+      "constructedExtensions": [
+        ".torrent"
+      ]
+    },
+    {
+      "constructedName": "Архивы",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Archives",
+      "constructedTag": "{arch}",
+      "constructedExtensions": [
+        ".zip",
+        ".rar",
+        ".7z"
+      ]
+    },
+    {
+      "constructedName": "Картинки",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Images",
+      "constructedTag": "{img}",
+      "constructedExtensions": [
+        ".png",
+        ".jpg",
+        ".jpeg"
+      ]
+    },
+    {
+      "constructedName": "Остальное",
+      "constructedPath": "C:\\STORAGE\\SORTED\\Other",
+      "constructedTag": "{other}",
+      "constructedExtensions": []
+    }
+  ]
+}

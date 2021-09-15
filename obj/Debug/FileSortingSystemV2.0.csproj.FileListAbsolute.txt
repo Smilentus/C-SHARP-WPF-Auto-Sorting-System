@@ -1,0 +1,139 @@
+C:\Projects\C#\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe.config
+C:\Projects\C#\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csprojAssemblyReference.cache
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\InputPathWindow.g.cs
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\App.g.cs
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.cache
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.lref
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\InputPathWindow.baml
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\MainWindow.baml
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.g.resources
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2._0.Properties.Resources.resources
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.GenerateResource.cache
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.CoreCompileInputs.cache
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe.config
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csprojAssemblyReference.cache
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.g.cs
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\App.g.cs
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.cache
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.lref
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.baml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.baml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.g.resources
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2._0.Properties.Resources.resources
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.GenerateResource.cache
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.CopyComplete
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Projects\C#\Проект Улучшение Жизни v1.0.1\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe.config
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.dll
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.xml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csprojAssemblyReference.cache
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.g.cs
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.g.cs
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\App.g.cs
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.cache
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.lref
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.baml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.baml
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.g.resources
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2._0.Properties.Resources.resources
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.GenerateResource.cache
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.CopyComplete
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.exe
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.pdb
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\SortResultWindow.g.cs
+C:\Projects\C#\Улучшение Жизни\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\SortResultWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe.config
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.exe
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\FileSortingSystemV2.0.pdb
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.dll
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Buffers.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Memory.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Numerics.Vectors.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Encodings.Web.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Text.Json.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\bin\Debug\System.ValueTuple.xml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csprojAssemblyReference.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\SortResultWindow.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\App.g.cs
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0_MarkupCompile.lref
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\InputPathWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\MainWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\SortResultWindow.baml
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.g.resources
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2._0.Properties.Resources.resources
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.GenerateResource.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.CoreCompileInputs.cache
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.csproj.CopyComplete
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.exe
+C:\PROJECTS\SOME LIFE PROJECTS\[Проект] Автосортировочная система\FileSortingSystemV2.0\obj\Debug\FileSortingSystemV2.0.pdb

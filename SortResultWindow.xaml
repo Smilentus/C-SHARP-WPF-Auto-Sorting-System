@@ -1,0 +1,13 @@
+﻿<Window x:Class="FileSortingSystemV2._0.SortResultWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FileSortingSystemV2._0"
+        mc:Ignorable="d"
+        Title="Результаты сортировки" Height="450" Width="600" WindowStartupLocation="CenterScreen" Topmost="True" ResizeMode="CanMinimize" Background="#FF1D1D1D">
+    <Grid>
+        <ListBox x:Name="resultTextBox" Margin="10,10,10,50" Background="#FF1D1D1D" BorderBrush="#FFFFD100" Foreground="#FFFFEC94" VerticalContentAlignment="Top"/>
+        <Button x:Name="closeBtn" Content="Закрыть" HorizontalAlignment="Right" Margin="0,0,10,10" VerticalAlignment="Bottom" Width="100" Height="30" Background="#FF1D1D1D" BorderBrush="#FFFFD100" Foreground="#FFFFEC94" Click="closeBtn_Click" Visibility="Hidden"/>
+    </Grid>
+</Window>
